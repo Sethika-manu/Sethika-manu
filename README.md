@@ -12,7 +12,7 @@
 ### 👨‍💻 About Me
 
 * 🎓 **Undergraduate Software Engineer** at Java Institute, Sri Lanka.
-* 💼 **Co-Founder** at **Royal Codex Software Solutions (Pvt) Ltd**, driving web design and innovation.
+* 💼 **Co-Founder and CEO** at **Royal Codex Software Solutions (Pvt) Ltd**, driving web design and innovation.
 * 💡 Interested in advanced web development, modern frameworks, and solving real-world problems.
 * 🤝 Open to collaborate on innovative web projects, open-source initiatives, and startup ideas.
 
