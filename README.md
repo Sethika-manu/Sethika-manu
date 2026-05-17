@@ -1,15 +1,3 @@
-👋 Hi, I’m @Sethika-manu
-
-💻 I’m an undergraduate Software Engineer at Java Institute, Sri Lanka.
-
-🚀 I run my own software company and provide professional web design & web development services.
-
-👀 I’m interested in coding, software development, web technologies, and building real-world projects.
-
-🌱 I’m currently learning advanced web development, modern frameworks, and improving my problem-solving skills.
-
-🤝 I’m looking to collaborate on web development projects, open-source projects, and startup ideas.
-
 <div align="center">
 
 # Hi there! I'm Sethika Manumitha 👋
