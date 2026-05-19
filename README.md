@@ -40,7 +40,7 @@
 ### 🌐 Connect with Me
 
 <div align="left">
-  <a href="https://www.royalcodex.com" target="_blank">
+  <a href="https://rc-website-52f60.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Website-Royal%20Codex-blue?style=flat-square&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/sethika-manumitha-255b02326" target="_blank">
